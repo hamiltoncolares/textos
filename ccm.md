@@ -1,3 +1,5 @@
+#CCM
+
 ## Conceito de CCM
 
 Customer Communication Management, como seu nome indica, é a gestão de comunicação com o cliente por meios físicos ou eletrônicos. Vai desde a manipulação da informação, geração e armazenamento de documentos até a inteligência na localização. Com isto pode se dizer que CCM está articulada por vários ramos os quais podem aplicar apenas uma ou de maneira conjunta para otimizar e melhorar os fluxos de trabalho de seu negócio.
